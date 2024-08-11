@@ -1,6 +1,6 @@
 # Data Cleaning using Google Spreadsheets
 
-In this project, I have used two datasets named as International Logistics Association Memberships and Cosmetics.Inc to perform data cleaning process using some of these tools in google spreadsheets listed below:
+In this project, I have used two datasets named as International Logistics Association Memberships and Cosmetics.Inc to perform data cleaning process. The google spreadsheet tools that I have used for doing this are listed below:
 
 ### ***Conditional Formatting***
 
